@@ -112,9 +112,9 @@ crawl -u <website_url> [-o <output_dir>] [-d <max_depth>] [-h]
 
 Crawl [example.com](https://fromfirstprinciple.com/) up to depth 2, saving to my_output:
 
-    ```bash
+  ```bash
     crawl -u https://fromfirstprinciple.com/ -o my_output -d 2
-    ```
+  ```
 
 ## Contributing
 
